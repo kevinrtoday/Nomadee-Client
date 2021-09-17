@@ -32,12 +32,12 @@ const Navbar = () => {
               </NavLink>
             </li>
             <li className="nav-item">
-              <NavLink className="nav-link" to="/event">
+              <NavLink className="nav-link" to="/events">
                 Events
               </NavLink>
             </li>
             <li className="nav-item">
-              <NavLink className="nav-link" to="/aboutus">
+              <NavLink className="nav-link" to="/about">
                 About us
               </NavLink>
             </li>
